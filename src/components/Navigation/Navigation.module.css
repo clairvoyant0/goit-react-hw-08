@@ -1,0 +1,14 @@
+.list {
+  color: #fafafa;
+  display: flex;
+  gap: 20px;
+  font-size: 20px;
+}
+
+.list a{
+  color: #fafafa;
+}
+.list a:hover,
+.list a:focus {
+  color: aquamarine;
+}
